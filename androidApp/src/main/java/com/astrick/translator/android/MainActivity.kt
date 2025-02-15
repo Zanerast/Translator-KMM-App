@@ -1,4 +1,4 @@
-package com.astrick.myfirstkmmapp.android
+package com.astrick.translator.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

@@ -1,4 +1,4 @@
-package com.astrick.myfirstkmmapp.android
+package com.astrick.translator.android
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.shape.RoundedCornerShape

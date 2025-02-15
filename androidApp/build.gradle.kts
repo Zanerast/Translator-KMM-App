@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.astrick.myfirstkmmapp.android"
+    namespace = "com.astrick.translator_kmm_app.android"
     compileSdk = 35
     defaultConfig {
-        applicationId = "com.astrick.myfirstkmmapp.android"
+        applicationId = "com.astrick.translator_kmm_app.android"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
