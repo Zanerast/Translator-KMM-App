@@ -1,4 +1,4 @@
-package com.astrick.myfirstkmmapp
+package com.astrick.translator
 
 import platform.UIKit.UIDevice
 

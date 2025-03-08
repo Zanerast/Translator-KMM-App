@@ -1,4 +1,4 @@
-package com.astrick.myfirstkmmapp
+package com.astrick.translator
 
 class Greeting {
     private val platform: Platform = getPlatform()

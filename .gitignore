@@ -9,3 +9,4 @@ captures
 local.properties
 xcuserdata
 /.kotlin/sessions/kotlin-compiler-2134389482299883037.salive
+shared/src/commonMain/kotlin/com/astrick/translator/NetworkConstants.kt

@@ -1,4 +1,4 @@
-package com.astrick.myfirstkmmapp
+package com.astrick.translator
 
 import org.junit.Assert.assertTrue
 import org.junit.Test
